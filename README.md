@@ -1,2 +1,2 @@
 # composer-phpunit-boilerplate
-A stupidly basic Composer + PHPUnit setup
+Forked from MaxWebmecanik to showcase some unit-test examples
